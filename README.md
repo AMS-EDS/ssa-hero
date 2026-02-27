@@ -1,8 +1,6 @@
 # Your Project's Title...
 Your project's description...
 
-Easter Egg :)
-
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
 - Live: https://main--{repo}--{owner}.aem.live/
